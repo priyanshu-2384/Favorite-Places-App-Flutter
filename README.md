@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+This project is an app in which you can save your favorite places, by clicking photo using your native device camera and getting its location using google maps.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) I have used google maps api for accessing all maps related features.
+2) I have used flutter image_picker library for getting acces to user's camera 
+3) At the backend the data is store in user's device , I have used SQL for storing data on the device
+3) And At last frontend is done purely in flutter.
